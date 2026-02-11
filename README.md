@@ -1,4 +1,4 @@
-# # COM7019 – Assignment (Task 1)
+#  COM7019 – Assignment (Task 1)
 
 This repository contains the Python implementation for Task 1 of the COM7019 Artificial Intelligence and Neural Networks assignment.
 
